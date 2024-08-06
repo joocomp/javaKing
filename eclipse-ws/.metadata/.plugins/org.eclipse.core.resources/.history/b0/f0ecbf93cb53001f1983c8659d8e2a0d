@@ -1,0 +1,23 @@
+package day04;
+
+import java.util.Scanner;
+
+public class 지역변수_유효범위2 {
+	
+	public static void main(String[] args) {
+		
+		
+		
+		int number = 36;
+		int sqrt = (int) Math.sqrt(number);
+		
+		for(int i = 1; i <= sqrt ; i++) {
+			if(number %i == 0) {
+				System.out.print(i);
+				System.out.print(": ");
+				System.out.println(number / i);
+			}
+		}
+	}
+
+}

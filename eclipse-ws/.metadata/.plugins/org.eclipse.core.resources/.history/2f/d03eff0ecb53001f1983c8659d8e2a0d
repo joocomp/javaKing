@@ -1,0 +1,14 @@
+package day04;
+
+import java.util.Scanner;
+
+public class 지역변수_유효범위2 {
+	
+	public static void main(String[] args) {
+		
+		
+		
+		//
+	}
+
+}

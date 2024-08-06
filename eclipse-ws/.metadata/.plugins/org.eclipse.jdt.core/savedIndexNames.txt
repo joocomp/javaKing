@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/Users/joo/Documents/javaKing/eclipse-ws/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+3306020048.index
+364355689.index

@@ -1,0 +1,16 @@
+package day03;
+
+public class 문자형변수 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		// 문자형변수	: 한 문자를 저장
+		
+		char c = 'A';		// ' '사용
+		System.out.println(c);
+
+	}
+
+}
